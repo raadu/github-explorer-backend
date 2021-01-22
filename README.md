@@ -15,3 +15,10 @@ npm run start:dev
 ```
 
 * Port used 3000. App is displayed in localhost:3000
+
+This server is deployed in [Heroku](https://www.heroku.com/): 
+
+Endpoint: https://github-explorer-backend123.herokuapp.com/  
+Search API [GET]: https://github-explorer-backend123.herokuapp.com/git-search/search  
+Add Search API [POST]: https://github-explorer-backend123.herokuapp.com/git-search/create
+
